@@ -1,0 +1,16 @@
+/home/debinci/Documents/VS_Projects/SingletonDP/bin/Debug/net5.0/SingletonDP
+/home/debinci/Documents/VS_Projects/SingletonDP/bin/Debug/net5.0/SingletonDP.deps.json
+/home/debinci/Documents/VS_Projects/SingletonDP/bin/Debug/net5.0/SingletonDP.runtimeconfig.json
+/home/debinci/Documents/VS_Projects/SingletonDP/bin/Debug/net5.0/SingletonDP.runtimeconfig.dev.json
+/home/debinci/Documents/VS_Projects/SingletonDP/bin/Debug/net5.0/SingletonDP.dll
+/home/debinci/Documents/VS_Projects/SingletonDP/bin/Debug/net5.0/ref/SingletonDP.dll
+/home/debinci/Documents/VS_Projects/SingletonDP/bin/Debug/net5.0/SingletonDP.pdb
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.csprojAssemblyReference.cache
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.AssemblyInfoInputs.cache
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.AssemblyInfo.cs
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.csproj.CoreCompileInputs.cache
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.dll
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/ref/SingletonDP.dll
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.pdb
+/home/debinci/Documents/VS_Projects/SingletonDP/obj/Debug/net5.0/SingletonDP.genruntimeconfig.cache
