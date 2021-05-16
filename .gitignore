@@ -1,2 +1,5 @@
 *.pro
 *.csproj
+.[ao]
+.json
+.vscode
