@@ -2,15 +2,27 @@
 
 namespace Factory
 {
+    //---------------------------------------------------------------
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Factory Design Pattern World!");
 
-            Telefon s7 = TelefonFabrikası.getTelefon("S7", "3400", 6,8);
+            DBFactory db = FactoryUtil.GetFactory("SQL");
+            Connection cnn = db.CreateConnection();
+            cnn.Connect();
 
-            Telefon Note3 = TelefonFabrikası.getTelefon("Note3", "6555", 12,15);
+            Command cmd = db.CreateCommand();
+            cmd.Query = "Select * from Table";
+            cmd.Execute();
+
+            db = FactoryUtil.GetFactory("Oracle");
+            cnn = db.CreateConnection();
+            cnn.Connect();
+            cmd = db.CreateCommand();
+            cmd.Query = "Select * from table";
+            cmd.Execute();
 
         }
     }

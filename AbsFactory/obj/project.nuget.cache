@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XpvIRBWlsQwrUawoZ/4x6wGU3G7aTL6Qv2Lz/TB2b5asxA9n1aTngWgOXWQ7SrTjHIA/0kvvHGjJwVxrqP8JBg==",
+  "dgSpecHash": "Sk8UWA/eCuUNYKihHRpuJRzOvAB9qpU6ayBM+yhqZ6DVIcUaEsGbbTaAB4HJj7y0HPvQDkXS8F92aa9lyLFoLA==",
   "success": true,
-  "projectFilePath": "/home/debinci/Documents/VS_Projects/Factory/Factory.csproj",
+  "projectFilePath": "/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFactory/Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
