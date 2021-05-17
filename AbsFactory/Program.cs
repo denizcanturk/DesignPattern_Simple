@@ -23,8 +23,6 @@ namespace Factory
             cmd = db.CreateCommand();
             cmd.Query = "Select * from table";
             cmd.Execute();
-
         }
     }
-
 }
