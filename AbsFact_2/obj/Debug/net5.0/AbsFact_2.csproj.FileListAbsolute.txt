@@ -1,0 +1,16 @@
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/bin/Debug/net5.0/AbsFact_2
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/bin/Debug/net5.0/AbsFact_2.deps.json
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/bin/Debug/net5.0/AbsFact_2.runtimeconfig.json
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/bin/Debug/net5.0/AbsFact_2.runtimeconfig.dev.json
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/bin/Debug/net5.0/AbsFact_2.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/bin/Debug/net5.0/ref/AbsFact_2.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/bin/Debug/net5.0/AbsFact_2.pdb
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.csprojAssemblyReference.cache
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.AssemblyInfoInputs.cache
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.AssemblyInfo.cs
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.csproj.CoreCompileInputs.cache
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/ref/AbsFact_2.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.pdb
+/home/debinci/Documents/VS_Projects/DesignPatterns/AbsFact_2/obj/Debug/net5.0/AbsFact_2.genruntimeconfig.cache
