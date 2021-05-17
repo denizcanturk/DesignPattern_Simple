@@ -1,5 +1,13 @@
 *.pro
 *.csproj
-.[ao]
-.json
-.vscode
+*.[ao]
+*.json
+*.vscode
+/bin/
+/obj/
+*.dll
+*.pdb
+*.cache
+*.editorconfig
+*.props
+*.targets
