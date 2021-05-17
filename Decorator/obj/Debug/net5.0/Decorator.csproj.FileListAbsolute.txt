@@ -1,0 +1,16 @@
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/bin/Debug/net5.0/Decorator
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/bin/Debug/net5.0/Decorator.deps.json
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.json
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.dev.json
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/bin/Debug/net5.0/Decorator.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/bin/Debug/net5.0/ref/Decorator.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/bin/Debug/net5.0/Decorator.pdb
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.csprojAssemblyReference.cache
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfoInputs.cache
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfo.cs
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.csproj.CoreCompileInputs.cache
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/ref/Decorator.dll
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.pdb
+/home/debinci/Documents/VS_Projects/DesignPatterns/Decorator/obj/Debug/net5.0/Decorator.genruntimeconfig.cache
